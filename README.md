@@ -1,4 +1,4 @@
-# zain.github.io
+# Zainpy.github.io
 
 a to-do list app 
 
